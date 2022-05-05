@@ -4,6 +4,10 @@
 
 - <a href="https://heydesign.systems/">heydesign.systems</a>
 
+## Free Icons:
+
+- <a href="https://glyphsearch.com/">GlyphSearch</a>
+
 ## Websites for Free Illustrations:
 
 - <a href="https://undraw.co/">undraw.co</a>
