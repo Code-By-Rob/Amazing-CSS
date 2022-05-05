@@ -1,4 +1,4 @@
-# Amazing-CSS
+# Amazing Web Design
 
 Key list:
 
