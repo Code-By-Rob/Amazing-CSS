@@ -1,5 +1,9 @@
 # Amazing-CSS
 
+Key list:
+
+- Personal Favourite === 🌟
+
 ## Design Systems Resources:
 
 - <a href="https://heydesign.systems/">heydesign.systems</a>
