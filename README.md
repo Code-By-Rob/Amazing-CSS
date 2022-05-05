@@ -15,7 +15,7 @@
 - <a href="https://icons8.com/illustrations">icons8.com/illustrations</a>
 - <a href="https://www.freepik.com/illustrations">freepik.com/illustrations</a>
 - <a href="https://www.iconfinder.com/illustrations">iconfinder.com/illustrations</a>
-- <a href="https://drawkit.com/">drawkit.com</a>
+- 🌟<a href="https://drawkit.com/">drawkit.com</a>
 - <a href="https://storyset.com/">storyset.com</a>
 
 ### Websites for CSS Animations:
