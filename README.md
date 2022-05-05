@@ -6,7 +6,7 @@ Key list:
 
 ## Design Systems Resources:
 
-- <a href="https://heydesign.systems/">heydesign.systems</a>
+- 🌟<a href="https://heydesign.systems/">heydesign.systems</a>
 
 ## Free Icons:
 
