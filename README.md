@@ -31,8 +31,8 @@ Key list:
 
 # Common Website Structures:
 
-Bootstrap.
-```
+Bootstrap CSS UI Components.
+`
 |__Landing Page
 |             |__Headers
 |             |__Heroes
@@ -50,4 +50,4 @@ Bootstrap.
 |     |__Social Feed
 
 |__Dashboard
-```
+`
