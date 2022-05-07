@@ -28,3 +28,26 @@ Key list:
 - <a href="https://jonsuh.com/hamburgers/">jonsuh/hamburgers</a>
 - <a href="https://animxyz.com/">AnimXYZ.com</a>
 - 🌟<a href="https://animista.net/">Animista.net</a>
+
+# Common Website Structures:
+
+Bootstrap.
+```
+|__Landing Page
+|             |__Headers
+|             |__Heroes
+|             |__Features
+|             |__Social Proof
+|             |__Jumbotron (Blog)
+|             |__Pricing//CTA (+footer)
+
+|__Sign-in
+
+|__Checkout (use as sign-up)
+
+|__Blog
+|     |__Article Feed
+|     |__Social Feed
+
+|__Dashboard
+```
