@@ -34,20 +34,41 @@ Key list:
 Bootstrap CSS UI Components.
 ```
 |__Landing Page
-|             |__Headers
-|             |__Heroes
-|             |__Features
-|             |__Social Proof
-|             |__Jumbotron (Blog)
-|             |__Pricing//CTA (+footer)
+|  |__Headers
+|  |__Heroes
+|  |__Features
+|  |__Social Proof
+|  |__Jumbotron (Blog)
+|  |__Pricing//CTA (+footer)
 
 |__Sign-in
 
 |__Checkout (use as sign-up)
 
 |__Blog
-|     |__Article Feed
-|     |__Social Feed
+|  |__Article Feed
+|  |__Social Feed
 
 |__Dashboard
+```
+
+Tailwind CSS UI Components.
+```
+|__Landing Page
+|  |__Header (Nav)
+|  |__Hero Section
+|  |__Features Section
+|  |__Stats + Logo Cloud Section
+|  |__Testimonials
+|  |__FAQs & Blog Section
+|  |__CTA Section
+|  |__Footer
+
+|__Contact Page
+
+|__Pricing Page
+
+|__Sign-in Form
+
+|__Application Shell
 ```
