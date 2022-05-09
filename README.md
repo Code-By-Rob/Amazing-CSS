@@ -4,6 +4,10 @@ Key list:
 
 - Personal Favourite === 🌟
 
+## Website name generator (With trends & AI components):
+
+- <a href="https://looka.com/business-name-generator">Looka Business Name Generator</a>
+
 ## Design Systems Resources:
 
 - 🌟<a href="https://heydesign.systems/">heydesign.systems</a>
