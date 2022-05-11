@@ -11,6 +11,7 @@ Key list:
 ## Design Systems Resources:
 
 - 🌟<a href="https://heydesign.systems/">heydesign.systems</a>
+- <a href="https://www.diagrams.net/">draw.io // diagrams.net</a>
 
 ## Free Icons:
 
