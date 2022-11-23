@@ -77,3 +77,6 @@ Tailwind CSS UI Components.
 
 |__Application Shell
 ```
+## Information Architecture
+
+- https://www.ellegeraghty.com/blog/2019/how-to-categorise-content
